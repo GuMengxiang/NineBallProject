@@ -1,0 +1,343 @@
+KEY,English,简体中文,繁體中文,Español,Deutsch,Français,日本語
+Language,English,简体中文,繁體中文,Español,Deutsch,Français,日本語
+
+Warning4,Do you wish to close the application?,您确定要退出游戏吗？,您確定要退出遊戲嗎？,¿Quieres cerrar aplicaciones?,Wollen Sie die Anwendung schließen?,Ce que tu veux applications fermé?,ゲームを終了したいですか？
+
+SelectorFriendKey,Enter Passcode Here,这里输入验证码,這裏輸入驗證碼,Introduce el Código Aquí,Gib hier deinen PIN-Code ein,Saisissez votre mot de passe,パスコードを入力してください
+SearchFrd1,Looking for your friend...,正在寻找您的朋友...,正在尋找您的朋友...,Buscando a tu amigo...,Suche nach deinem Freund...,Recherche de votre ami...,あなたの友だちを探しています...
+SearchFrd2,Pro tip 1: Both players need to enter the same passcode...,请注意双方需要用统一的验证码...,請註意雙方需要用統壹的驗證碼...,Consejo Pro 1: Ambos jugadores tienen que introducir el mismo código...,Profi-Tipp 1: Beide Spieler müssen den gleichen PIN-Code eingeben...,Astuce de pro 1: Les deux joueurs doivent saisir le mot de passe...,ヒント1：どちらのプレイヤーも同じパスコードを入力する必要があります...
+SearchFrd3,Pro tip 2: The passcode needs to be fairly unique...,请注意您的验证码不能太简单以免和其他人重复...,請註意您的驗證碼不能太簡單以免和其他人重復...,Consejo Pro 2: El código tiene que ser realmente único...,Profi-Tipp 2: Der PIN-Code muss einzigartig sein...,Astuce de pro 2: Le mot de passe doit être relativement unique...,ヒント2：パスコードはとてもユニークなものにする必要があります...
+SearchFrd4,Pro tip 3: Both players need to bet the same amount of chips...,请注意双方需要押同样多的金币...,請註意雙方需要押同樣多的金幣...,Consejo Pro 3: Ambos jugadores tiene que apostar la misma cantidad de fichas...,Profi-Tipp 3: Beide Spieler müssen die gleiche Menge Chips setzen...,Astuce de pro 3: Les deux joueurs doivent miser le même nombre de jetons...,ヒント3：どちらのプレイヤーも同額のチップを賭ける必要があります...
+SearchFrd5,Looking for your friend...,加倍努力寻找中...,加倍努力尋找中...,Buscando a tu amigo...,Suche nach deinem Freund...,Recherche de votre ami...,あなたの友だちを探しています...
+GameEndDisclaimer,Accu-Score in this game won't be counted towards your statistics.,这场游戏的命中率不会被统计到用户数据中。,這場遊戲的命中率不會被統計到用戶數據中。,La información de puntuación precisa no contará en este juego para tus estadísticas.,Der Präzisionswertung dieses Spiels zählt nicht für deine Statistiken.,"Dans cette partie, Score de Précision ne sera pas comptabilisé dans vos statistiques.",このゲームの精度スコアは統計に反映されません。
+GameEndEmptyHolder,         ,         ,         ,         ,         ,         ,         
+OppoLeftGame,Your opponent left the game.,您的对手离开了游戏。,您的對手離開了遊戲。,Tu oponente abandonó el juego.,Dein Gegner hat das Spiel verlassen.,Votre adversaire à quitté la partie.,相手がゲームから離れました。
+Rematch,REMATCH,再玩一局,再玩壹局,REVANCHA,REVANCHE,REVANCHE,再試合
+RematchInterstitialLabel1,Setting up rematch game...,创建重赛房间...,創建重賽房間...,Establecer la revancha...,Ein Revanche-Spiel einrichten...,Configuration de la revanche...,再試合をセットアップしています...
+RematchInterstitialLabel2,Waiting for your opponent...,等待您的对手...,等待您的對手...,Esperando a tu oponente...,Warte auf deinen Gegner...,En attente de votre adversaire...,相手を待っています...
+RematchYes,I want to play again!,我想再玩儿一局！,我想再玩兒壹局！,¡Quiero jugar otra vez!,Ich möchte noch einmal spielen!,Je veux rejouer!,もう一度プレイしたいです！
+RematchNo,"Sorry, I cannot play right now.",我现在不能再玩儿了。,我現在不能再玩兒了。,No puedo jugar ahora.,Ich kann jetzt nicht spielen.,Je ne peux pas rejouer tout de suite.,今はプレイできません。
+RematchWait,Waiting for your opponent...,等待对手回复...,等待對手回復...,Esperando a tu oponente...,Warte auf deinen Gegner...,En attente de votre adversaire...,相手を待っています...
+RematchNoCoin,"Sorry, you don't have enough chips.",您金币余额不足。,您金幣余額不足。,No tienes suficientes fichas.,Du hast nicht genug Chips.,Vous n'avez pas assez de jetons.,チップが足りません。
+PopupStarterDealSubTitle1,One time offer! Get 2X chips and a free cue!,一次机会！拿双倍金币并赠送球杆！,壹次機會！拿雙倍金幣並贈送球桿！,¡Multiplica tus fichas por 2 y consigue un taco gratis!,Erhalte 2x Chips und ein kostenloses Queue!,Recevez 2x plus de jetons et une queue gratuite!,チップ2倍、そしてキューが無料で手に入ります！
+PopupStarterDealSubTitle2,One time offer! Buy now and get 2X chips!,一次机会！现在购买拿双倍金币！,壹次機會！現在購買拿雙倍金幣！,¡Compra ahora y multiplica tus fichas por 2!,Kaufe jetzt und erhalte 2x Chips!,Achetez maintenant et recevez 2x plus de jetons!,今購入すればチップが2倍！
+PopupDailyDealSubTitle11,Get ,多得,多得,¡Consigue un ,Erhalte ,Recevez ,チップ
+PopupDailyDealSubTitle12, more chips and a free cue!,金币并赠送球杆！,金幣並贈送球桿！, más en fichas y un taco gratis!, mehr Chips und ein kostenloses Queue!, plus de jetons et une queue gratuite!,アップ、そしてキューが無料で手に入ります！
+PopupDailyDealSubTitle21,Buy now and get ,现在购买多得,現在購買多得,Compra ahora y consigue un ,Kaufe jetzt und erhalte ,Achetez maintenant et recevez ,今購入すればチップが
+PopupDailyDealSubTitle22, more chips!,金币！,金幣！, más en fichas!, mehr Chips!, plus de jetons!,アップ！
+FrdsGameFtueTitle,Play With Friends,朋友对战,朋友對戰,Jugar Con Amigos,Spielen Mit Freunden,Jouer Avec Des Amis,友達と遊ぶ
+FrdsGameFtueLine,"1. You can also set up private rooms and play 9 ball with your friends real time!\n\n2. To set up private rooms, enter a unique passcode that only you and your friend knows and start playing.\n\n3. Also, please make sure both players need to enter the same passcode and both players need to bet the same amount of chips.","1。 您可以和您的朋友开私人房间一起玩儿！\n\n2。 如果您想和您的朋友对战，您和您的朋友需要预先约定一个验证码，然后同时输入该验证码并点击寻找游戏。\n\n3。 同时还请您注意双方需要输入统一的验证码，而且双方需要押同样多的金币。","1。 您可以和您的朋友開私人房間壹起玩兒！\n\n2。 如果您想和您的朋友對戰，您和您的朋友需要預先約定壹個驗證碼，然後同時輸入該驗證碼並點擊尋找遊戲。\n\n3。 同時還請您註意雙方需要輸入統壹的驗證碼，而且雙方需要押同樣多的金幣。","1. Puedes jugar una partida de bola 9 con tus amigos en tiempo real en una sala privada.\n\n2. Para establecer una sala privada, introduce la contraseña privada que sólo conocéis tu amigo y tú y a jugar.\n\n3. También, por favor asegúrese de ambos jugadores tienen que introducir el mismo código y ambos jugadores tiene que apostar la misma cantidad de fichas.","1. Du kannst Privaträume einrichten und 9-Ball mit deinen Freunden in Echtzeit spielen!\n\n2. Um Privaträume einzurichten, gib einen einzigartigen PIN-Code ein, der nur dir und deinem Freund bekannt ist, und fang an zu spielen.\n\n3. Also, stellen Sie bitte sicher seide Spieler müssen den gleichen PIN-Code eingeben und beide Spieler müssen die gleiche Menge Chips setzen.","1. Vous pouvez créer des salles privées et jouer au jeu de la 9 avec vos amis en temps réel!\n\n2. Pour créer une salle privée, entrez votre mot de passe unique que seul vous et vos amis possédez, et lancez la partie.\n\n3. Aussi, se il vous plaît assurez les deux joueurs doivent saisir le mot de passe et les deux joueurs doivent miser le même nombre de jetons.","1。 プライベートルームを設定して、リアルタイムで9ボールのプレイできます！\n\n2。 プライベートルームを設定するには、あなたと友達だけが知っているパスコードを入力すればプレイを開始できます。\n\n3。 また、確認してくださいどちらのプレイヤーも同じパスコードを入力する必要がありますとどちらのプレイヤーも同額のチップを賭ける必要があります。"
+FirstName,Player Name,玩家昵称,玩家昵稱,Su Nombre,Spielername,Votre Nom,プレイヤー名
+
+MainMenuButtonPlayMulti,PLAY,对战,對戰,JUGAR,SPIELEN,JOUER,オンラインで
+MainMenuMulti,Online,网络,網絡,En Línea,Online,En Ligne,遊ぶ
+MainMenuButtonPlayFrds,PLAY,对战,對戰,JUGAR,SPIELEN,JOUER,友達と
+MainMenuFrds,With Friends,朋友,朋友,Con Amigos,Mit Freunden,Avec Vos Amis,遊ぶ
+MainMenuButtonPlayBots,PLAY,对战,對戰,JUGAR,SPIELEN,JOUER,ロボットと
+MainMenuBots,With Bot,电脑,電腦,Contra Robots,Mit Bot,Contre L'IA,遊ぶ
+MainMenuButtonPlaySolo,PLAY,练习,練習,JUGAR,SPIELEN,JOUER,1人で
+MainMenuSolo,Solo,个人,個人,En Solitario,Solo,En Solo,遊ぶ
+
+WindowTitleSetting,Settings,游戏设置,遊戲設置,Ajustes,Einstellungen,Paramètres,設定
+WindowTitleShopMain,Shop,商城,商城,Tienda,Geschäft,Boutique,ショップ
+WindowTitleProfile,Player Profile,个人资料,個人資料,Perfil del Jugador,Spielerprofil,Profil de Joueur,プレイヤープロフィール
+WindowTitleAvatarShop,Avatar Shop,头像商城,頭像商城,Tienda de Avatar,Avatar-Shop,Boutique de Avatars,アバターショップ
+WindowTitleCoin,Chip Shop,金币商城,金幣商城,Tienda de Moneda,Chip-Shop,Boutique de Jetons,チップショップ
+WindowTitleCue,Cue Shop,球杆商城,球桿商城,Tienda de Taco,Queue-Shop,Boutique de Queues,キューショップ
+WindowTitleStats,Statistics,个人数据,個人數據,Estadística,Statistik,Statistiques,統計
+WindowTitleAchievement,Achievement,个人成就,個人成就,Logro,Leistung,Réalisation,成就
+
+PopupStarterDealTitle,Starter Package,新手大礼包,新手大禮包,Paquete de Principiante,Starterpaket,Pack de Lancement,スターターパッケージ
+PopupDailyDealTitle,Daily Deal Package,每日特价,每日特價,Trato Diario,Tagesangebot,Offre du Jour,デイリーディール
+PopupDealOnlyTextBefore,"",只要 ,只要 ,A Solo ,Nur ,"",""
+PopupDealOnlyTextAfter, Only,,,,, Seulement,だけ
+
+PopupStarterDeal,Starter Package,新手大礼包,新手大禮包,Paquete Inicial Especial,Spezielles Start-Paket,Pack de Lancement Spécial,スタータースペシャルパッケージ
+PopupDailyDeal,Daily Deal Package,每日特价,每日特價,Paquete de Descuento Diario,Tägliches Nachlass-Paket,Pack Quotidien en Promotion,デイリーディスカウントパッケージ
+
+PopupSelectorPlayButton,PLAY NOW,开始游戏,開始遊戲,JUGAR AHORA,JETZT SPIELEN,JOUER,今すぐ遊ぶ
+PopupSelectorPayout,Pay-out,获胜奖励,獲勝獎勵,Pagar,Auszahlung,Encaisser,支払う
+PopupSelectorBuyin,Buy-in,压注金币,壓註金幣,Comprar,Einkauf,Acheter,購入
+
+WindowSettingLanguage,Language Selection,选择语言,選擇語言,Selección del Idioma,Sprachauswahl,Choisir la Langue,言語選択
+WindowSettingSelectLanguage,Language Selection,选择语言,選擇語言,Selección del Idioma,Sprachauswahl,Choisir la Langue,言語選択
+Change,Change,修改,修改,Cambio,Änderung,Changer,変更
+View,View,查看,查看,Vista,Aussicht,Vue,ビュー
+
+Bronze,Bronze,青铜,青銅,Bronce,Bronze,Bronze,ブロンズ
+Silver,Silver,白银,白銀,Plata,Silber,Argent,シルバー
+Gold,Gold,黄金,黃金,Oro,Gold,Or,ゴールド
+Red,Red,红钻,紅鉆,Rojo,Rot,Rouge,レッド
+
+IinterstitialProfilepopuptext0,You Won: ,您赢得了：,您贏得了：,Ganaste: ,Sie erhalten: ,Vous avez gagné: ,あなたは：
+IinterstitialProfilepopuptext1,Potential Winning: ,获胜后奖励：,獲勝後獎勵：,Ganador Potencial: ,Potenzielle Gewinnung: ,Gain Potentiel: ,潜在的な勝利：
+IinterstitialProfilepopuptext2,Accu-Score: ,九球命中率：,九球命中率：,Puntuación Precisa: ,Präzisionswertung: ,Score de Précision: ,精度スコア：
+IinterstitialProfilepopuptext3,Win Percentage: ,获胜比例：,獲勝比例：,Porcentaje de Victoria: ,Gewinnprozentsatz: ,% De Victoires: ,勝率：
+IinterstitialProfilepopuptext4,Games Won: ,获胜次数：,獲勝次數：,Juegos Ganados: ,Gewonnene Spiele: ,Parties Gagnées: ,勝利数：
+IinterstitialProfilepopuptext5,Win Streak: ,连胜次数：,連勝次數：,Victoria Consecutiva: ,Siegesserie: ,Suite de Victoires: ,連勝数：
+IinterstitialProfilepopuptext6,Level Rank: ,等级称号：,等級稱號：,Rango: ,Rang: ,Rang: ,レベルランク：
+IinterstitialProfilepopuptext7,Skill Rank: ,水平称号：,水平稱號：,Rango de Habilidad: ,Geschicklichkeitsrang: ,Rang de Talent: ,スキルランク：
+IinterstitialProfilepopuptext80,Winning: ,金币奖励：,金幣獎勵：,Ganador: ,Gewinnsumme: ,Total des gains: ,勝利額：
+IinterstitialProfilepopuptext81,XP: +,经验奖励：+,經驗獎勵：+,XP: +,XP: +,XP: +,経験値：+
+IinterstitialProfilepopuptext9,Name,玩家姓名,玩家姓名,Nombre,Name,Nom,姓名
+IinterstitialProfilepopuptext10,Accu-Score (this game),单场命中率,單場命中率,Puntuación Precisa (este juego),Präzisionswertung (dieses Spiel),Score de Précision (ce jeu),精度スコア（このゲーム）
+IinterstitialProfilepopuptext11,Balls Potted,进球数量,進球數量,Bolas Embocadas,Bälle-Topf,Boules Empochées,ポケットイン
+IinterstitialProfilepopuptext12,Balls Missed,丢球数量,丟球數量,Bolas Perdidas,Verpasste Bälle,Boules Ratées,ボールは逃した
+IinterstitialProfilepopuptext13,Out Of Position,丢失位置次数,丟失位置次數,Fuera de Posición,Aus Der Position,Hors de Position,アウトオブポジション
+IinterstitialProfilepopuptext14,Scratched,犯规次数,犯規次數,Falta,Foul,Faute,ファウル
+
+InGameProfileCoinBalance,Chip Balance:,金币数量：,金幣數量：,Saldo de Monedas:,Chip-Abgleich:,Solde de Jetons:,チップバランス：
+InGameProfileTPAScore,Accu-Score:,九球命中率：,九球命中率：,Puntuación Precisa:,Präzisionswertung:,Score de Précision:,精度スコア：
+InGameProfileMilitaryRank,Level Rank:,等级称号：,等級稱號：,Rango:,Rang:,Rang:,レベルランク：
+InGameProfileSkillRank,Skill Rank:,水平称号：,水平稱號：,Rango de Habilidad:,Geschicklichkeitsrang:,Rang de Talent:,スキルランク：
+InGameProfileGamesWon,Games Won:,获胜次数：,獲勝次數：,Juegos Ganados:,Gewonnene Spiele:,Parties Gagnées:,勝利数：
+InGameProfileWinPercentage,Win Percentage:,获胜比例：,獲勝比例：,Porcentaje de Victoria:,Gewinnprozentsatz:,% De Victoires:,勝率：
+InGameProfileWinStreak,Win Streak:,连胜次数：,連勝次數：,Victoria Consecutiva:,Siegesserie:,Suite de Victoires:,連勝数：
+
+WindowSettingSound,Sound,音效,音效,Sonido,Sound,Son,音楽
+WindowSettingVibrate,Vibration,震动,震動,Vibración,Vibration,Vibration,振動
+WindowSettingProducer,Studio,工作室,工作室,Estudio,Studio,Studio,スタジオ
+WindowSettingProgrammer,Software Engineer,程序员,程序員,Ingeniero de Software,Software Engineer,Software Engineer,プログラマ
+WindowSettingArtist2,2D Artist,2D 美工,2D 美工,Artista 2D,2D-Artist,Artiste 2D,2Dアーティスト
+WindowSettingArtist3,3D Artist,3D 美工,3D 美工,Artista 3D,3D-Artist,Artiste 3D,3Dアーティスト
+WindowSettingDesigner,Special Advisor,特别顾问,特別顧問,Asesor Especial,Sonderberater,Conseiller Spécial,特別顧問
+WindowSettingVersion,Version,版本,版本,Versión,Version,Version,バージョン
+WindowSettingHelp,9 Ball Game Rules,专业九球规则,專業九球規則,Reglas de Juego de Bola 9,9 Ball Spielregeln,Règles de la 9 Ball,ナインボールのルール
+WindowSettingMain_help,In-Game Rules and Options,游戏内部功能介绍,遊戲內部功能介紹,Reglas de Juego y Opciones,Spiel-Regeln und Optionen,Règles du Jeu et Options,ゲーム内のルールとオプション
+
+WindowSettingScore,XXX,XXX,XXX,XXX,XXX,XXX
+ProfileButtonName1,XXX,XXX,XXX,XXX,XXX,XXX
+ProfileButtonName2,XXX,XXX,XXX,XXX,XXX,XXX
+
+WindowStatsPastGames,Last 20 Games,最近 20 局,最近 20 局,Últimos 20 Juegos,Die Letzten 20 Spiele,20 Dernières Parties,過去20ゲーム
+WindowStatsAllTimes,All Games,所有游戏,所有遊戲,Todos los Juegos,Alle Spiele,Tous les Jeux,全体ゲーム
+WindowStatsTPAScore,Accu-Score,九球命中率,九球命中率,Puntuación Precisa,Präzisionswertung,Score de Précision,精度スコア
+WindowStatsBallsPotted,Balls Potted,进球数量,進球數量,Bolas Embocadas,Bälle-Topf,Boules Empochées,ポケットイン
+WindowStatsBallsMissed,Balls Missed,丢球数量,丟球數量,Bolas Perdidas,Verpasste Bälle,Boules Ratées,ボールは逃した
+WindowStatsOutOfPosition,Out Of Position,丢失位置次数,丟失位置次數,Fuera de Posición,Aus Der Position,Hors de Position,アウトオブポジション
+WindowStatsScratched,Scratched,犯规次数,犯規次數,Falta,Foul,Faute,ファウル
+WindowStatsGamesWonLoss,Games Won / Played,获胜次数 / 游戏次数,獲勝次數 / 遊戲次數,Juegos Ganados / Jugados,Gewonnene Spiele / Spiel,Parties Gagnées / Jouées,勝利数 / プレイ数
+WindowStatsChipsWonLoss,Chips Won / Lost,赢得金币 / 输掉金币,贏得金幣 / 輸掉金幣,Monedas Ganadas / Perdidas,Chips Gewonnen / Verloren,Jetons Gagnés / Perdus,獲得チップ / 損失チップ
+WindowStatsWinStreak,Win Streak,连胜次数,連勝次數,Victoria Consecutiva,Siegesserie,Suite de Victoires,連勝数
+
+Warning0,Do you wish to leave the tutorial?,您确定要离开新手教程么？,您確定要離開新手教程麽？,¿Deseas abandonar el tutorial?,Möchten Sie das Tutorial verlassen?,Voulez-vous quitter le tutoriel?,チュートリアルを終わりますか？
+Warning1,Do you wish to leave the game?,您确定要离开当前游戏么？,您確定要離開當前遊戲麽？,¿Deseas abandonar el juego?,Möchten Sie das Spiel verlassen?,Voulez-vous quitter la partie?,ゲームを終わりますか？
+Warning2,Do you wish to buy this avatar?,您确定要购买该头像么？,您確定要購買該頭像麽？,¿Deseas comprar este avatar?,Möchten Sie diesen Avatar kaufen?,Voulez-vous acheter cet avatar?,このアバターを購入しますか？
+Warning3,Do you wish to buy this cue?,您确定要购买该球杆么？,您確定要購買該球桿麽？,¿Deseas comprar este taco?,Möchten Sie dieses Queue kaufen?,Voulez-vous acheter cette queue?,このキューを購入しますか？
+
+newfunction,NEW!,新功能！,新功能！,¡NUEVO!,NEU!,NOUVEAU!,NEW！
+NEW,NEW!,新道具！,新道具！,NUEVO!,NEU!,NOUVEAU!,NEW！
+NewItems,NEW ITEM!,新道具！,新道具！,ARTÍCULO NUEVO!,NEUES STÜCK!,NOUVEL OBJET!,NEWアイテム！
+ComingSoon,COMING SOON,正在制作中,正在制作中,MUY PRONTO,BALD KOMMEN,BIENTÔT,準備中
+2XChips,2X Chips!!!,两倍金币！！！,兩倍金幣！！！,¡¡¡2X Monedas!!!,2X Chips!!!,2X de Jetons!!!,チップ2倍！！！
+3XChips,3X Chips!!!,三倍金币！！！,三倍金幣！！！,¡¡¡3X Monedas!!!,3X Chips!!!,3X de Jetons!!!,チップ3倍！！！
+PopDeal,Popular Deal!!!,最火的礼包！！！,最火的禮包！！！,¡¡¡Trato Popular!!!,Beliebtes Geschäft!!!,Offre Populaire!!!,人気！！！
+free,Free,免费道具,免費道具,Libre,Frei,Gratuit,無料
+Locked,Locked,等级不够,等級不夠,Bloqueado,Verschlossen,Verrouillé,ロック
+owned,Use,选择使用,選擇使用,Usar,Nutzung,Utiliser,使う
+equipped,Using,正在使用,正在使用,Usando,Verwendung,Utilisation,使用
+buy,Buy,立即购买,立即購買,Comprar,Einkauf,Acheter,買う
+level,Level,等级要求,等級要求,Nivel,Ebene,Niveau,レベル
+Yes,YES,确定,確定,SÍ,JA,OUI,はい
+No,NO,取消,取消,NO,NEIN,NON,いいえ
+Ok,OK,好的,好的,OKAY,OK,OK,OK
+
+GameOverLabelWin,You Won!!!,恭喜您赢得比赛！,恭喜您贏得比賽！,¡¡¡Ganaste!!!,Sie Haben Gewonnen!,Vous Avez Gagné!,あなたが勝った！
+GameOverLabelTutorialWin,Tutorial Completed Bonus Chips: ,新手教程完成 奖金：,新手教程完成 獎金：,¡Monedas de Bonos Completados del Tutorial: ,Tutorial Abgeschlossen Bonus Chips: ,Jetons Bonus de Tutoriel Terminé: ,チュートリアル終了ボーナスチップ：
+GameOverLabelTutorialWinMark,!!!,！,！,!,!,!,！
+GameOverLabeSoloOnelWin,Player 1 Won!!!,1号玩家赢得比赛！,1號玩家贏得比賽！,¡¡¡Jugador 1 Ganó!!!,Spieler 1 Hat Gewonnen!,Joueur 1 a Gagné!,プレイヤー1勝利！
+GameOverLabeSoloTwolWin,Player 2 Won!!!,2号玩家赢得比赛！,2號玩家贏得比賽！,¡¡¡Jugador 2 Ganó!!!,Spieler 2 Hat Gewonnen!,Joueur 2 a Gagné!,プレイヤー2勝利！
+GameOverLabelLose,You Lost...,很遗憾您输了...,很遺憾您輸了...,Perdiste...,Sie Haben Verloren...,Vous Avez Perdu...,負けました...
+
+SearchBestMatch,Looking for player best suited for you...,正在寻找最适合您的对手...,正在尋找最適合您的對手...,Buscando al mejor jugador que se adapte a ti...,Auf der Suche nach dem Spieler...,Recherche de joueurs adaptés à votre niveau...,最適なプレイヤーを探しています...
+SearchLocalServer1,Looking for player in local lobby #1...,在第一区为您寻找对手...,在第壹區為您尋找對手...,Buscando al jugador del lobby local #1...,Auf der Suche nach dem Spieler in der lokalen Lobby #1...,Recherche de joueurs dans le lobby local #1...,ローカルロビー#1のプレイヤーを探しています...
+SearchLocalServer2,Looking for player in local lobby #2...,在第二区为您寻找对手...,在第二區為您尋找對手...,Buscando al jugador del lobby local #2...,Auf der Suche nach dem Spieler in der lokalen Lobby #2...,Recherche de joueurs dans le lobby local #2...,ローカルロビー#2のプレイヤーを探しています...
+SearchLocalServer3,Looking for player in local lobby #3...,在第三区为您寻找对手...,在第三區為您尋找對手...,Buscando al jugador del lobby local #3...,Auf der Suche nach dem Spieler in der lokalen Lobby #3...,Recherche de joueurs dans le lobby local #3...,ローカルロビー#3のプレイヤーを探しています...
+SearchLocalServer4,Looking for player in local lobby #4...,在第四区为您寻找对手...,在第四區為您尋找對手...,Buscando al jugador del lobby local #4...,Auf der Suche nach dem Spieler in der lokalen Lobby #4...,Recherche de joueurs dans le lobby local #4...,ローカルロビー#4のプレイヤーを探しています...
+SearchGlobalServer,Looking for player in main lobby...,在大厅为您寻找对手...,在大廳為您尋找對手...,Buscando al jugador del lobby...,Auf der Suche nach dem Spieler in der Lobby...,Recherche de joueurs dans le lobby principal...,メインロビーのプレイヤーを探しています...
+SearchReconnect,Re/Connecting to main lobby...,网络重新连线中...,網絡重新連線中...,Volver a/conectarse al lobby...,Erneute Verbindung zur Lobby...,Re/Connexion au lobby principal...,メインロビーに（再）接続しています...
+LoadContentFirstNetwork,First time loading game (may take up to 15 seconds)...,第一次加载游戏（最多可能要用15秒）...,第壹次加載遊戲（最多可能要用15秒）...,El juego está cargando (tomará hasta 15 segundos)...,Spiel wird geladen zum ersten Mal (kann bis zu 15 Sekunden dauern)....Premier chargement de la partie (peut prendre jusqu'à 15 secondes)...,初めてゲームをロードしています（最大で15秒かかります）...
+LoadContentNetwork,Loading game...,正在加载游戏...,正在加載遊戲...,El juego está cargando...,Spiel wird geladen...,Chargement de la partie...,ゲームをロードしています...
+LoadContentFirst,First time loading game (may take up to 15 seconds)......,第一次加载游戏（最多可能要用15秒）......,第壹次加載遊戲（最多可能要用15秒）......,El juego está cargando (tomará hasta 15 segundos)......,Spiel wird geladen zum ersten Mal (kann bis zu 15 Sekunden dauern)......,Premier chargement de la partie (peut prendre jusqu'à 15 secondes)......,初めてゲームをロードしています（最大で15秒かかります）......
+LoadContent,Loading game......,正在加载游戏......,正在加載遊戲......,El juego está cargando......,Spiel wird geladen......,Chargement de la partie......,ゲームをロードしています......
+
+DailyBonusTitleOtherTime,Welcome back to 9 Ball Pool!,九球欢迎您回来！,九球歡迎您回來！,Bienvenido Nuevamente al Bola 9!,Willkommen zurück bei 9 Ball Pool!,Bienvenue à 9 Ball Pool!,ナインボールへおかえりなさい！
+DailyBonusSubTitleFirstTime,Click on any ball for up to 1 million free chips!,点击下面任何一个球，得到免费金币！,點擊下面任何壹個球，得到免費金幣！,¡Pulsa en cualquier bola para hasta 1 millón de monedas gratis!,Klicken Sie auf einen Ball für bis zur einen Million kostenlose Chips!,Obtenez jusqu'à 1 million de jetons tous les jours!,ボールをクリックして最大100万チップを無料で手に入れましょう！
+DailyBonusSubTitleOtherTime,Come back everyday for up to 1 million free chips!,每天下午六点来领取免费金币！,每天下午六點來領取免費金幣！,¡Regresa todos los días para hasta 1 millón de monedas gratis!,Kommen Sie züruck täglich für bis zur einen Million kostenlose Chips!,Obtenez jusqu'à 1 million de jetons tous les jours!,毎日戻って最大100万チップを無料で手に入れましょう！
+DailyBonusWon,You Won ,您赢得了,您贏得了,Ganaste ,Sie erhalten ,Vous avez gagné ,あなたは
+DailyBonusWonEnd,!,！,！,!,!,!,のチップを獲得！
+
+WindowProfileWinRatio,Win Percentage:,获胜比例：,獲勝比例：,Porcentaje de Victoria:,Gewinnprozentsatz:,% De Victoires:,勝率：
+WindowProfileWinStreak,Win Streak:,连胜次数：,連勝次數：,Victoria Consecutiva:,Siegesserie:,Suite de Victoires:,連勝数：
+WindowProfileTPAScore,Accu-Score:,九球命中率：,九球命中率：,Puntuación Precisa:,Präzisionswertung:,Score de Précision:,精度スコア：
+WindowProfileSkill,Skill Rank:,水平称号：,水平稱號：,Rango de Habilidad:,Geschicklichkeitsrang:,Rang de Talent:,スキルランク：
+WindowProfileRank,Level Rank:,等级称号：,等級稱號：,Rango:,Rang:,Rang:,レベルランク：
+
+OutOfTime, ran out of time.,超时了。,超時了。, te acaba el tiempo., lief die Zeit., n'avez plus de temps.,時間切れです。
+PocketCueBall, pocketed the cue ball.,把母球打进了。,把母球打進了。, se embolsó la bola blanca., haben die weiße Kugel eingesteckt., avez empoché la boule blanche.,キューボールをポケット。
+FourBallRail, made an illegal break.,开球犯规了。,開球犯規了。, hiciste un tiro inicial ilegal., haben einen illegalen Aufenthalt., n'avez pas le droit de casser de cette manière.,不正なブレイクショットを。
+RightFirstBall, failed to hit the lowest-numbered ball first.,没有击中最小号球。,沒有擊中最小號球。, no golpear la bola de menor número primero., haben verpasste den niedrigsten nummerierte ball., n'avez pas touché la boule au plus petit nombre en premier.,最も小さい番号のボールをヒットしませんでした。
+Disconnected, disconnected from the game.,退出了游戏。,退出了遊戲。, desconectaste del juego., haben sich selbst vom Spiel ausgeschlossen., avez été déconnecté de la partie.,ゲームから切断。
+ToolTip1,Do you wish to push out?,您想选择推杆么？,您想選擇推桿麽？,¿Deseas realizar un tiro defensivo?,Möchten Sie 'Push Out'?,Voulez-vous effectuer un tir poussé?,プッシュアウトしますか？
+ToolTip2,Do you wish to skip this shot?,您想选择放弃这杆么？,您想選擇放棄這桿麽？,¿Deseas saltarte este tiro?,Möchten Sie das Shot überspringen?,Voulez-vous passer ce tir?,このショットをスキップしますか？
+Connecting,Re/Connecting to room...,网络重新连线中...,網絡重新連線中...,Volver a/conectarse a la sala...,Erneute Verbindung zum Zimmer...,Re/Connexion à la pièce...,ルームに（再）接続しています...
+BallRailContact,No ball hit rail after initial contact.,目标球被撞击后没有球碰壁。,目標球被撞擊後沒有球碰壁。,Ninguna bola golpeó la banda después.,Kein Ball schlägt die Schiene nach dem ersten Kontakt.,Aucune boule n'a touché la bande après le contact initial.,最初の接触の後ボールがレールにヒットしませんでした。
+
+YourBreak, breaking.,开球。,開球。, realizando un tiro inicial., eingebrochen., de casser.,ブレイクショットしています。
+YourPush, pushing out.,选择了推杆。,選擇了推桿。, realizando un tiro defensivo., mit 'Push Out' versuchen., d'effectuer un tir poussé.,プッシュアウトしています。
+YourSkip, skipping the shot.,选择了放弃这杆。,選擇了放棄這桿。, saltándote el tiro., das Überspringen Shot., sauter ce plan.,ショットをスキップしています。
+
+SoloPlayerOneName,Player 1,玩家1,玩家1,El jugador 1,Spieler 1,Joueur 1,プレイヤー1は
+SoloPlayerTwoName,Player 2,玩家2,玩家2,El jugador 2,Spieler 2,Joueur 2,プレイヤー2は
+YourOpponent,Your opponent,您的对手,您的對手,Tu oponente,Ihr Gegner,Votre adversaire,相手は
+YourSelf,You,您,您,Usted,Sie,Vous,あなたは
+
+SoloPlayerOneNameIs,Player 1 is,玩家1,玩家1,El jugador 1 está,Spieler 1 ist,C'est au joueur 1,プレイヤー1は
+SoloPlayerTwoNameIs,Player 2 is,玩家2,玩家2,El jugador 2 está,Spieler 2 ist,C'est au joueur 2,プレイヤー2は
+YourOpponentIs,Your opponent is,您的对手,您的對手,Tu oponente está,Ihr Gegner ist,C'est à votre adversaire,相手は
+YourSelfAre,You are,您,您,Estás,Sie sind,C'est à vous,あなたは
+
+inches,Inches,厘米,厘米,cm,cm,cm,センチ
+mph,MPH,米/秒,米/秒,m/s,m/s,m/s,米/秒
+speed,Speed:,最高速度：,最高速度：,Velocidad:,Speed:,Vitesse:,スピード：
+aim,Aim:,瞄准长度：,瞄準長度：,Aim:,Ziel:,Aim:,AIM：
+spin,Spin:,母球旋转：,母球旋轉：,Spin:,Spin:,Spin:,スピン：
+Versus,vs.,vs.,vs.,vs.,vs.,vs.,vs.
+SpacedMaoHao, : ,：,：, : , : , : ,：
+InterstitialNumberLevelUp,You Levelled Up!!!,恭喜您升级了！！！,恭喜您升級了！！！,¡¡¡Subiste de Nivel!!!,Sie Sind Nach Oben Gekommen!,Vous Avez Gagné un Niveau!,レベルアップしました！
+USD,USD,元,圆,USD,USD,USD,米ドル
+CoinCounts,Chip Count,可以购得,可以購得,Conteo de Monedas,Chipanzahl,Total de Jetons,チップ数
+
+Robot #1,Papa Robot,美国电脑,美國電腦,Robot #1,USA Bot,L'IA #1,コンピュータ#1
+Robot #2,Tough Robot,金属电脑,金屬電腦,Robot #2,Tough Bot,L'IA #2,コンピュータ#2
+Robot #3,Fun Robot,开心电脑,開心電腦,Robot #3,Fun Bot,L'IA #3,コンピュータ#3
+Robot #4,Mean Robot,变态电脑,變態電腦,Robot #4,Wütend Bot,L'IA #4,コンピュータ#4
+Robot #5,Cool Robot,酷酷电脑,酷酷電腦,Robot #5,Coole Bot,L'IA #5,コンピュータ#5
+Robot #6,Cute Robot,可爱电脑,可愛電腦,Robot #6,Niedlich Bot,L'IA #6,コンピュータ#6
+Robot #7,Nerd Robot,小贱电脑,小賤電腦,Robot #7,Nerdy Bot,L'IA #7,コンピュータ#7
+Robot #8,Evil Robot,恐怖电脑,恐怖電腦,Robot #8,Böser Bot,L'IA #8,コンピュータ#8
+Robot #9,Silly Robot,傻瓜电脑,傻瓜電腦,Robot #9,Dummer Bot,L'IA #9,コンピュータ#9
+Robot #10,Brave Robot,勇敢电脑,勇敢電腦,Robot #10,Brave Bot,L'IA #10,コンピュータ#10
+
+PopupSelector0,Poor Man's Bar,蓝色初级桌,藍色初級桌,Bar del Hombre Pobre,Arme-Leute-Bar,Bar du Pauvre,貧しい男のバー
+PopupSelector1,Classic English Pub,绿色初级桌,綠色初級桌,Pub Inglés Clásico,Englische Kneipe,Pub Anglais Classique,イングリッシュパブ
+PopupSelector2,Ruddy's Pool Hall,红色初级桌,紅色初級桌,Hall de Billar Ruddy,Ruddys Pool Hall,Hall du Billard de Ruddy,ルディのプールホール
+PopupSelector3,Desert Castle,沙色中级桌,沙色中級桌,Castillo de Desierto,Schloss Desert,Château du Désert,デザートキャッスル
+PopupSelector4,Crystal Dome,蓝色中级桌,藍色中級桌,Bóveda de Cristal,Kristall Dome,Dôme de Cristal,クリスタルドーム
+PopupSelector5,Walter's Lab,银色中级桌,銀色中級桌,Laboratorio de Walter,Walters Labor,Laboratoire de Walter,ウォルターのラボ
+PopupSelector6,Sandstorm Temple,真皮高级桌,真皮高級桌,Templo de Tormenta,Sandsturm-Tempel,Temple Tempête de Sable,砂嵐の聖堂
+PopupSelector7,Water World,黑洞高级桌,黑洞高級桌,Mundo Acuático,Wasserwelt,Monde Aquatique,ウォーターワールド
+PopupSelector8,Royal Suite,紫色高级桌,紫色高級桌,Suite Real,Royal Suite,Suite Royale,ロイヤルスイート
+PopupSelector9,King's Chamber,黄金至尊桌,黃金至尊桌,Alcoba Del Rey,Königskammer,Chambre du Roi,王室
+
+FtueSwipe,Please swipe anywhere on the screen to rotate the cue stick.,请在屏幕上任意位置滑动来旋转球杆。,請在屏幕上任意位置滑動來旋轉球桿。,Toca cualquier parte de la pantalla para girar el taco.,"Bitte streichen Sie irgendwo über den Bildschirm, um das Queue zu drehen.",Faites glisser votre doigt n'importe où sur l'écran pour faire tourner la queue.,キュースティックを回すには画面上をスワイプしてください。
+FtueShoot,Please pull back and release the slider to shoot the cue ball.,请拉下之后快速放开滑杆来击球。,請拉下之後快速放開滑桿來擊球。,Jala y suelta el deslizador para golpear la bola de tiro.,Bitte ziehen Sie sich zurück und lassen Sie den Schieberegler.,Tirez sur la barre et relâchez-la pour frapper la boule blanche.,キューボールを打つにはスライダーを引き戻して放してください。
+FtueOnline,Play with real opponents online and start winning chips now!,点击这里开始和网上玩家对战！,點擊這裏開始和網上玩家對戰！,¡Juega en línea con oponentes reales y empieza a ganar monedas ahora!,Spielen Sie mit echten Gegnern Online und gewinnen Sie Chips jetzt!,Jouez en ligne contre de vrais adversaires et gagnez des jetons dès aujourd'hui!,オンラインで本物の相手とプレイして、チップを手に入れましょう！
+FtueSubtitle,Complete the tutorial and get bonus chips!,完成新手教程并赢得免费金币！,完成新手教程並贏得免費金幣！,¡Completa el tutorial y gana monedas extras!,Vollenden Sie das Tutorial und erhalten Sie Bonus-Chips!,Terminez le tutoriel et obtenez des jetons bonus!,チュートリアルを終了して、ボーナスチップを手に入れましょう！
+FtueEnter,Enter Tutorial,进入教程,進入教程,Ingresa Aquí,Geben Sie Hier,Entrez Ici,今すぐ遊ぶ
+FtueTitle,Welcome to 9 Ball Pool!,九球欢迎您！,九球歡迎您！,Bienvenido al Bola 9!,Willkommen bei 9 Ball Pool!,Bienvenue à 9 Ball Pool!,ナインボールへようこそ！
+
+PopupGeneralRulesText,In-Game Rules and Options,游戏内部功能介绍,遊戲內部功能介紹,Reglas de Juego y Opciones,Spiel-Regeln und Optionen,Règles du Jeu et Options,ゲーム内のルールとオプション
+PopupGeneralRulesText1,"\n1. PLAY ONLINE. 'Play Online' will match you against a real life opponent for a game of 9 Ball. The winner of the game will make double on his/her wager while the opponent gets to leave with a good story. Please note that all online games also give you experience points and count towards your in-game stats.","\n1。 网络对战。 如果您想和网上其他玩家对战，您可以点击“网络对战”按钮。胜者可以获得他所押金币的双倍，而输家会丢掉他所押的金币。请注意所有“在线对战”中的表现都会给您带来经验值并且记录到您的个人数据里。","\n1。 網絡對戰。 如果您想和網上其他玩家對戰，您可以點擊“網絡對戰”按鈕。勝者可以獲得他所押金幣的雙倍，而輸家會丟掉他所押的金幣。請註意所有“在線對戰”中的表現都會給您帶來經驗值並且記錄到您的個人數據裏。","\n1. JUEGA EN LÍNEA. La opción 'Jugar en línea' te emparejará con un oponente real para una partida de bola 9. El ganador doblará su apuesta y el oponente conseguirá una buena historia. Recuerda que todos los juegos en línea te darán además puntos de experiencia y cuentan para tus estadísticas.","\n1. SPIELE ONLINE. „Online spielen“ teilt dich für ein Spiel 9-Ball einem echten Gegner zu. Der Gewinner des Spiels verdoppelt seinen/ihren Einsatz während der Gegner mit einer guten Geschichte ausscheidet. Bitte beachte, dass du durch alle Online-Spiele ebenfalls Erfahrungspunkte erhältst und dass sie in deine Spielstatistiken eingehen.","\n1. JOUER EN LIGNE. 'Jouer en ligne' vous permet d'affronter un adversaire bien réel lors d'une partie de jeu de la 9. Le vainqueur de la partie doublera sa mise, et l'adversaire repartira avec une belle histoire à raconter. Veuillez noter que toutes les parties en ligne vous rapportent aussi des points d'expérience et qu'elles sont comptabilisées dans vos statistiques de jeu.","\n1。 オンラインでプレイ。 「オンラインプレイ」では9ボールの対戦相手を、実存する他のプレイヤーから探し出してあなたにマッチします。ゲームの敗者は良いお土産話を、一方勝者はダブルになった掛け金を持ち帰ることができます。また、すべてのオンラインゲームで経験ポイントが入り、ゲーム統計にカウントされます。"
+PopupGeneralRulesText2,"\n2. PLAY WITH FRIENDS. By choosing 'Play With Friends', you can play a game of 9 ball with your friends online! In order to start a game, please come up with a secret passcode with your friend, both enter the same passcode on the screen and start playing!","\n2。 朋友对战。 如果您想和您的朋友在线对战，您可以点击“朋友对战”按钮！打开“朋友对战”的弹窗之后，您和您的朋友需要在弹窗上方输入一个您二位约定的验证码，之后同时点击“开始游戏”就好了！","\n2。 朋友對戰。 如果您想和您的朋友在線對戰，您可以點擊“朋友對戰”按鈕！打開“朋友對戰”的彈窗之後，您和您的朋友需要在彈窗上方輸入壹個您二位約定的驗證碼，之後同時點擊“開始遊戲”就好了！","\n2. JUEGA CON AMIGOS. La opción 'Jugar con amigos' te permite jugar partidas de bola 9 con tus amigos en línea. Para comenzar a jugar, cread una contraseña secreta, que ambos tendréis que introducir en pantalla, y ¡a jugar!.","\n2. SPIELE MIT FREUNDEN. Durch Auswahl von „Mit Freunden spielen“ kannst du mit deinen Freunden online eine Runde 9-Ball spielen! Um ein Spiel zu starten gibst du deinem Freund einen geheimen PIN-Code, ihr gebt beide den gleichen PIN-Code am Bildschirm ein und fangt an zu spielen!","\n2. JOUER AVEC DES AMIS. En choisissant 'Jouer avec des amis', vous pouvez jouer en ligne au jeu de la 9 avec vos amis ! Pour lancer une partie, choisissez un mot de passe secret avec vos amis, saisissez tous les deux le même mot de passe à l'écran et commencez à jouer!","\n2。 友達とプレイ。「友達とプレイ」を選択すると、友達とオンラインで9ボールをプレイすることができます！ゲームを開始するには、友達との秘密のパスコードを作成し、両方の画面に同じパスコードを入力して、プレイを開始します！"
+PopupGeneralRulesText3,"\n3. CASUAL GAMES. You can always take a break from playing online games by using 'Play With Bots' or 'Play Solo'. These games don't cost any chips nor would they count towards your stats so you can fool around or practice new moves without worry.","\n3。 普通游戏。 如果您暂时不想在线对战，可以玩儿玩儿单机版的“电脑对战”或者“个人练习”。这两个模式不需要押注，也不会被记录在您的个人数据里。所以您在这里练习新招数或者中途退出都没问题。","\n3。 普通遊戲。 如果您暫時不想在線對戰，可以玩兒玩兒單機版的“電腦對戰”或者“個人練習”。這兩個模式不需要押註，也不會被記錄在您的個人數據裏。所以您在這裏練習新招數或者中途退出都沒問題。","\n3. JUEGOS RÁPIDOS. Siempre puedes descansar de los juegos en línea usando las opciones 'Jugar contra bot' o 'Jugar solo'. Estos juegos no te costarán fichas ni contarán para tus estadísticas, así que puedes practicar nuevos movimientos sin preocuparte.","\n3. CASUAL GAMES. Du kannst jederzeit eine Pause vom Online-Spielen einlegen, indem du „Mit Bots spielen“ oder „Allein spielen“ wählst. Diese Spiele kosten keine Chips und sie zählen auch nicht für deine Statistiken, also kannst du Unsinn machen oder sorgenlos neue Stöße einüben.","\n3. PARTIES RELAX. Vous pouvez faire une pause à tout moment et jouer hors ligne en choisissant 'Jouer contre l'IA' ou 'Jouer en solo'. Ces parties ne vous coûteront aucun jeton et ne seront pas comptabilisées dans vos statistiques. Vous pouvez donc vous amuser ou travailler vos nouveaux coups sans la moindre inquiétude.","\n3。 カジュアルゲーム。オンラインゲームから少し休みたい時には「ボットとプレイ」または「ソロプレイ」が使えます。これらのゲームではチップを必要とせず、統計にカウントもされないため、気軽に楽しんだり、新しい動きを練習することができます。"
+PopupGeneralRulesText4,"\n4. PURCHASE CHIPS. Besides winning games to get chips, you can also purchase chips from the coin shop. You can use these coins to bet big at ranked games or use them to purchase in-game items.","\n4。 购买金币。 如果您觉得金币不够，可以去金币商城里购买。购得这些金币之后，您可以用它们作为筹码来在线对战，也可以用它们购买游戏中的其他道具。","\n4。 購買金幣。 如果您覺得金幣不夠，可以去金幣商城裏購買。購得這些金幣之後，您可以用它們作為籌碼來在線對戰，也可以用它們購買遊戲中的其他道具。","\n4. COMPRAR FICHAS. Además de ganar partidas para conseguir fichas, puedes comprar fichas en la tienda del juego. Puedes utilizar estas monedas para apostar en partidas de clasificación o para comprar otros elementos del juego.","\n4. CHIPS KAUFEN. Neben dem Gewinnen von Spielen, um Chips zu erhalten, kannst du Chips auch im Coin-Shop kaufen. Du kannst diese Coins dazu benutzen, große Summen bei Ranglistenspielen zu setzen oder Gegenstände im Spiel zu kaufen.","\n4. ACHETER DES JETONS. Vous pouvez gagner des jetons en gagnant des parties, mais vous pouvez aussi en acheter à la boutique de jetons. Vous pouvez utiliser ces jetons pour devenir une star des parties classées ou pour acheter des objets de jeu.","\n4。 チップを購入。ゲームに勝ってチップを手に入れる以外に、コインショップからチップを購入することもできます。コインはランクゲームで大きく賭けたり、ゲーム内アイテムを購入するために使用できます。"
+PopupGeneralRulesText5,"\n5. FREE CHIPS. If you are looking for free chips, a pop-up will show up daily after 6pm. You can click on any of the magic 9-balls, and when it opens you will be rewarded with a gift of up to 1 million chips.","\n5。 免费金币。 当然，游戏中每天还有免费的金币领取。每天下午六点之后进入游戏可以获得一次抽奖的机会。点击弹窗里任意一个九球，您就有机会获得最多100万的金币。","\n5。 免費金幣。 當然，遊戲中每天還有免費的金幣領取。每天下午六點之後進入遊戲可以獲得壹次抽獎的機會。點擊彈窗裏任意壹個九球，您就有機會獲得最多100萬的金幣。","\n5. FICHAS GRATIS. Si necesitas fichas gratis, se abrirá una ventana emergente todos los días a partir de las 6 de la tarde. Puedes hacer clic en cualquiera de las bolas mágicas, en las cuales se encuentran premios de hasta un millón de fichas.","\n5. KOSTENLOSE CHIPS. Ein Pop-up Fenster erscheint jeden Tag nach 18:00 Uhr, falls du nach kostenlosen Chips suchst. Du kannst einen der magischen 9 Bälle anklicken und wenn er sich öffnet, wirst du mit einem Geschenk von bis zu 1 Million Chips belohnt.","\n5. JETONS GRATUITS. Si vous cherchez à obtenir des jetons gratuits, une fenêtre apparaîtra tous les jours après 18h. Vous pourrez cliquer sur une des boules 9 magiques, et vous recevrez un cadeau pouvant atteindre 1 million de jetons.","\n5。 無料チップ。無料チップを手に入れたい場合は、毎日午後6時以降に表示されるポップアップのマジック9ボールのいずれかをクリックします。オープンすると、最大100万個までのチップが取得できます。"
+PopupGeneralRulesText6,"\n6. IN-GAME ITEMS. You can purchase two types of in-game items, cues and avatars. Cues are unique not only by their appearances but also by the 3 attributes they hold. They are the cue's power, length of the aim extension and how much spin can you put on the ball. Avatars don't hold any special powers. They do, however, give you a unique look and make you stand out from the crowd.","\n6。 游戏道具。 您可以用金币购买游戏中的球杆道具和头像道具。购买高级球杆可以增加瞄准线的长度，母球旋转力度和最高速度。头像道具没有特别属性，但是可以让您与众不同！","\n6。 遊戲道具。 您可以用金幣購買遊戲中的球桿道具和頭像道具。購買高級球桿可以增加瞄準線的長度，母球旋轉力度和最高速度。頭像道具沒有特別屬性，但是可以讓您與眾不同！","\n6. ELEMENTOS DEL JUEGO. Puedes comprar dos tipos de objetos de juego: tacos y avatares. Los tacos o palos de billar son únicos no sólo por su apariencia, sino también por los 3 atributos que poseen, que son potencia, alcance y el efecto con el que puedes golpear la bola. Los avatares no tienen ningún poder especial, aunque te confieren un aspecto único y te hacen destacar entre la multitud.","\n6. GEGENSTÄNDE IM SPIEL. Du kannst zwei Arten von Gegenständen im Spiel kaufen, Billardqueues und Avatare. Queues sind nicht nur durch ihr Aussehen einzigartig, sondern auch durch die 3 Attribute, die sie besitzen. Das sind Stärke des Queues, Länge des Hilfsqueues und wie viel Effet man der Kugel mitgeben kann. Avatare besitzen keine besonderen Kräfte. Sie geben dir jedoch ein unverwechselbares Aussehen und lassen dich aus der Masse herausragen.","\n6. OBJETS DE JEU. Vous pouvez acheter deux types d'objets de jeu ; des queues et des avatars. Les queues sont uniques par leur apparence, mais aussi par leurs 3 attributs. Ceux-ci sont la puissance, la longueur de l'extension de visée et la quantité d'effet que vous pouvez donner à la boule. Les avatars ne possèdent pas de pouvoirs particuliers. Par contre, ils vous offrent un look unique et vous font sortir du lot.","\n6。 ゲーム内アイテム。キューとアバターの2種類のゲーム内アイテムを購入することができます。キューはそれぞれ、外見も3つの属性によっても異なります。属性にはキューのパワー、狙いのエクステンションの長さ、ボールに与えるスピンの量があります。アバターには特別なパワーはありませんが、ユニークな外観で回りから目立たせます。"
+PopupGeneralRulesText7,"\n7. ACCU-SCORE. 'Accu-Score' is an internationally recognized skill index for professional pool players, formally named 'Tournament Performance Average'. Currently we are the only mobile game that tracks this score for our players, in order for them to improve their skills over time.","\n7。 九球命中率。 “九球命中率”是一个国际通用验证九球选手实力的分数。我们现在是市面上唯一采用该分数记录玩家真实水平的游戏。通过多进球并且少犯错误，您可以提高您的“九球命中率”和您的真实实力。","\n7。 九球命中率。 “九球命中率”是壹個國際通用驗證九球選手實力的分數。我們現在是市面上唯壹采用該分數記錄玩家真實水平的遊戲。通過多進球並且少犯錯誤，您可以提高您的“九球命中率”和您的真實實力。","\n7. PUNTUACIÓN PRECISA. 'Puntuación Precisa' es un índice de habilidad reconocida internacionalmente por los jugadores de billar profesional, llamada formalmente 'Tournament Performance Average'. Actualmente somos el único juego para móviles que registra esta puntuación para nuestros jugadores a fin de que mejoren sus habilidades con el tiempo.","\n7. PRÄZISIONSWERTUNG. Der „Präzisionswertung“ ist ein international anerkannter Leistungsindex für professionelle Billardspieler, der den formellen Namen „Tournament Performance Average“ (Durchschnittliche Tournierleistung) trägt. Momentan sind wir das einzige Spiel für mobile Geräte, das diesen Wert für die Spieler aufzeichnet, sodass sie ihre Fähigkeiten im Laufe der Zeit verbessern können.","\n7. SCORE DE PRÉCISION. 'SCORE DE PRÉCISION' est un indice de compétence pour les joueurs de billard professionnels, que l'on désigne officiellement comme la 'Moyenne de Performances en Tournoi'. Nous sommes actuellement le seul jeu pour mobile qui suit le score de ses joueurs, afin qu'ils puissent s'améliorer au fil du temps.","\n7。 精度スコア。 「精度スコア」は正式には「トーナメントパフォーマンス平均」と呼ばれる、国際的に公認されたプロプールプレーヤーのスキル指数です。現在、プレイヤーがスキル向上できるよう、このスコアを追跡しているのは唯一、当社のモバイルゲームのみです。"
+PopupGeneralRulesText8,"\n8. ACCU-SCORE CALCULATION. 'Accu-Score' is calculated through dividing 'balls potted' by 'the sum of mistakes made and balls potted'. Therefore, this number will always be less than 100% unless you manage a perfect record without any mistakes.","\n8。 九球命中率算法。 用“进球数”除以“进球数与失误数之和”可以求得“九球命中率”。所以说，当您完全没有失误时，该命中率最高可达到100%。但是当您完全没有进球时，该命中率最低可至0%。","\n8。 九球命中率算法。 用“進球數”除以“進球數與失誤數之和”可以求得“九球命中率”。所以說，當您完全沒有失誤時，該命中率最高可達到100%。但是當您完全沒有進球時，該命中率最低可至0%。","\n8. PUNTUACIÓN PRECISA CALCULATION. 'Puntuación Precisa' se calcula dividiendo las 'bolas impulsadas' por 'la suma de los errores cometidos y las bolas impulsadas'. Por lo tanto, este número será siempre inferior al 100% a no ser que cuentes con un registro perfecto y sin errores.","\n8. BERECHNUNG DES PRÄZISIONSWERTUNG. Der „Präzisionswertung“ wird durch Division der „eingelochten Kugeln“ durch die „Summe der gemachten Fehler und eingelochten Kugeln“ berechnet. Daher wird diese Zahl immer geringer als 100% sein, falls du keine perfekten Runden ohne einen einzigen Fehler schaffst.","\n8. CALCUL DE SCORE DE PRÉCISION. 'SCORE DE PRÉCISION' est calculé en divisant le nombre de 'boules empochées' par la 'somme des erreurs commises et des boules empochées'. Ainsi, ce nombre sera toujours inférieur à 100 %, à moins que vous effectuiez un sans faute.","\n8。 精度スコア計算。 「アキュスコア」はポケットしたボールをミスの数とポケットしたボールとの合計で割ることによって算出されています。よって、ミスなしで完璧な記録を維持しない限り、この数は常に100％未満になります。"
+
+PopupHelpText,9 Ball Game Rules,专业九球规则,專業九球規則,Reglas de Juego de Bola 9,9 Ball Spielregeln,Règles de la 9 Ball,ナインボールのルール
+PopupHelpText1,"\n1. OBJECT OF THE GAME. 9 ball pool is played with nine object balls numbered one through nine and a cue ball. On each shot the first ball the cue ball contacts must be the lowest-numbered ball on the table. The game winning objective is to legally pocket the 9-ball.","\n1。 游戏目标。 九球游戏由一个母球和标号分别为一到九的九个目标球组成。两名玩家根据规则交替击球。最终把九号球合法打进的玩家将获得游戏的胜利。","\n1。 遊戲目標。 九球遊戲由壹個母球和標號分別為壹到九的九個目標球組成。兩名玩家根據規則交替擊球。最終把九號球合法打進的玩家將獲得遊戲的勝利。","\n1. OBJETIVO DEL JUEGO. Al bola 9 se juega con nueve bolas numeradas del uno al nueve y una bola blanca. En cada tiro la bola blanca debe golpear primero la bola con el número más bajo en la mesa. El objetivo de ganar el juego es meter legalmente la bola 9.","\n1. ZIEL DES SPIELS. 9-Ball Billard wird mit neun Objektbällen, die von eins bis neun nummeriert sind, und einer weißen Kugel gespielt. Bei jedem Stoß muss die erste Kugel, die die weiße Kugel trifft, die Kugel mit der niedrigsten Zahl auf dem Tisch sein. Um das Spiel zu gewinnen muss man die „9“ regelgemäß einlochen.","\n1. ÉLÉMENTS DE JEU. Le jeu de la 9 se joue avec neuf boules d'objets numérotées de un à neuf et une boule blanche. À chaque tir, la première boule que la boule blanche doit toucher doit être la boule au plus petit nombre encore sur la table. Le but du jeu est d'empocher dans les règles la boule 9.","\n1。 ゲームの目的。 9ボールプールは1から9までの番号の的玉と手玉でプレイされます。それぞれの回で手玉が最初に接触する玉は台上の最小の数の玉でなければなりません。ゲームの勝利目的は、合法的に9ボールをポケットすることです。"
+PopupHelpText2,"\n2. LEGAL BREAK-SHOT. The rules governing the break-shot are the same as for other shots with one additional requirement. The break-shot must either pocket at least one ball or drive at least four balls to the rail to be considered legal.","\n2。 开球规则。 玩家开球必须确保母球首先撞击一号球。如果在没有目标球落袋的情况下，玩家需要控制击球力度，以确保在母球击中一号球之后至少有四个球碰到库边（所以开球力度不宜太小）。","\n2。 開球規則。 玩家開球必須確保母球首先撞擊壹號球。如果在沒有目標球落袋的情況下，玩家需要控制擊球力度，以確保在母球擊中壹號球之後至少有四個球碰到庫邊（所以開球力度不宜太小）。","\n2. TIRO LEGAL DE APERTURA. Las normas que rigen el tiro de apertura son las mismas que para otros tiros excepto por un requisito adicional. El tiro de apertura debe meter como mínimo una bola o bien llevar a banda al menos cuatro bolas numeradas para que sea considerado legal.","\n2. KORREKTER ANSTOß. Die Regeln, die für den Anstoß gelten, sind die gleichen wie für andere Stöße, nur mit einer zusätzlichen Auflage. Der Anstoß muss, um korrekt ausgeführt zu sein, entweder mindestens eine Kugel einlochen oder mindestens vier Kugeln an die Bande bringen.","\n2. TIR DE CASSE VALABLE. Les règles qui s'appliquent au tir de casse sont les mêmes que pour les autres tirs, avec une condition supplémentaire. Pour qu'un tir de casse soit valable, celui-ci doit empocher au moins une boule ou pousser au moins quatre boules contre la bande.","\n2。 合法ブレイクショット。ブレイクショットに適用される規則は一つの追加要件がある以外、他のショットに関してと同じです。ブレイクショットが合法と見なされるには、少なくとも1つの玉をポケットするか、レールに少なくとも4つの玉を移動させなくてはいけません。"
+PopupHelpText3,"\n3. PUSH OUT. The second shot of the game, following a legal break-shot, may be a push out in an attempt to move the cue ball into a better position for the option that follows. On a push out, the cue ball is not required to make contact with anything as long as it remains on table. The player must announce his/her intention beforehand and any object ball pocketed on a push out remains pocketed except the 9-ball.","\n3。 推杆规则。 游戏中的第二杆有一个特别的推杆规则。如果一位玩家负责第二杆时发现桌面上没什么好的选择，可以选择推杆并交出击球权。推杆时该玩家只需要确保母球不能落袋，其他任何击球规则都不需要考虑。推杆中无意打进的一到八号目标球都会被判定落袋，如果被打进的是九号球则需要拿出来重新摆放。","\n3。 推桿規則。 遊戲中的第二桿有壹個特別的推桿規則。如果壹位玩家負責第二桿時發現桌面上沒什麽好的選擇，可以選擇推桿並交出擊球權。推桿時該玩家只需要確保母球不能落袋，其他任何擊球規則都不需要考慮。推桿中無意打進的壹到八號目標球都會被判定落袋，如果被打進的是九號球則需要拿出來重新擺放。","\n3. PUSH OUT. El segundo tiro del juego, tras un tiro legal de apertura, puede ser un push out en un intento de mover la bola blanca a una mejor posición para la siguiente opción. En un push out, no se requiere que la bola blanca toque ninguna bola objetivo ni ninguna banda, siempre y cuando permanezca en la mesa. El jugador debe anunciar su intención de practicar un push out antes de tirar, o de lo contrario se considerará un tiro normal. Cualquier bola metida en un push out no cuenta y permanece metida a excepción de la bola 9.","\n3. PUSH-OUT. Der zweite Stoß in einem Spiel, der auf einen korrekten Anstoß folgt, kann für einen Versuch, die weiße Kugel für das weitere Spiel in eine bessere Position zu bringen, ein Push-out sein. Bei einem Push-out muss die weiße Kugel nichts berühren, so lange sie auf dem Tisch bleibt. Der Spieler muss vorher seine/ihre Absicht ankündigen und jede Kugel, außer der „9“, die bei einem Push-out eingelocht wird, bleibt in der Tasche.","\n3. TIR POUSSÉ. Le deuxième tir de la partie, après un tir de casse valable, peut être un tir poussé ; une tentative de déplacer la boule blanche afin de mieux la positionner pour l'option qui suivra. Lors d'un tir poussé, la boule blanche n'a pas besoin de toucher quoi que ce soit tant qu'elle reste sur la table. Le joueur doit annoncer ses intentions avant le tir, et toute boule empochée sur un tir poussé restera empochée (sauf la boule 9).","\n3。 プッシュアウト。合法なブレイクショットの後のゲームのセカンドショットは、続くオプションのために手玉を良い位置に移動させるための試みとして、プッシュアウトにしても良いことになっています。プッシュアウトでは手玉は台上に留まっている限り、接触は要求されません。プレイヤーは事前に自分の意思を発表しなければならず、プッシュアウトでポケットに入った的玉は9ボールを除いて、すべてポケットの残します。"
+PopupHelpText4,"\n4. SKIP OPTION. Following a legal push out, the incoming player is permitted to shoot from that position or to pass the shot back to the player who pushed out.","\n4。 弃杆规则。 如果玩家1选择推杆，那么玩家2将会自动得到下一杆的击球权。这时如果玩家2认为桌面上没有什么好的选择，可以选择放弃击球并把击球权交还给玩家1。","\n4。 棄桿規則。 如果玩家1選擇推桿，那麽玩家2將會自動得到下壹桿的擊球權。這時如果玩家2認為桌面上沒有什麽好的選擇，可以選擇放棄擊球並把擊球權交還給玩家1。","\n4. PASAR. Tras un push out legal, se permite al siguiente jugador tirar desde la misma posición o devolver el tiro al jugador que realizó el push out.","\n4. MÖGLICHKEIT ZU ÜBERSPRINGEN. Nach einem korrekten Push-out ist es dem nächsten Spieler erlaubt aus dieser Position zu stoßen oder den Stoß an den Spieler zurückzugeben, der den Push-out gespielt hat.","\n4. OPTION : PASSER. Après un tir poussé valable, le joueur dont ce sera le tour a le droit de tirer depuis cette position, ou de passer et de laisser tirer le joueur qui a réalisé le tir poussé.","\n4。 スキップオプション。合法プッシュアウトの後で入ってくるプレイヤーはその場所からシュートするか、あるいはプッシュアウトをした後、プレイヤーにショットバックをパスすることが許可されています。"
+PopupHelpText5,"\n5. FOULS. If the first object ball contacted by the cue ball is not the lowest-numbered ball on the table, the shot is foul. If no object ball is pocketed, failure to drive the cue ball or any numbered ball to a rail after the cue ball's first impact is a foul. When a player commits a foul, the player must relinquish his/her run at the table and the incoming player is awarded ball in hand.","\n5。 犯规规则。 击球犯规主要有以下几种类型。第一，如果被母球击中的第一个目标球不是当前桌上的最小号球，那么这杆会被判定为击球犯规。第二，在母球撞击最小号目标球后，如果没有任何球碰到库边也没有任何目标球落袋，那么这杆会被判定为击球犯规。如果您在规定时间内没有击球，那么这杆会被判定为超时犯规。当一位玩家犯规后，击球权会自动转移给他的对手，并且该对手在下一杆可以任意摆放母球的位置。","\n5。 犯規規則。 擊球犯規主要有以下幾種類型。第壹，如果被母球擊中的第壹個目標球不是當前桌上的最小號球，那麽這桿會被判定為擊球犯規。第二，在母球撞擊最小號目標球後，如果沒有任何球碰到庫邊也沒有任何目標球落袋，那麽這桿會被判定為擊球犯規。如果您在規定時間內沒有擊球，那麽這桿會被判定為超時犯規。當壹位玩家犯規後，擊球權會自動轉移給他的對手，並且該對手在下壹桿可以任意擺放母球的位置。","\n5. FALTAS. Si el objeto que toca la bola blanca en primer lugar no es la bola con menor numeración sobre la mesa, el tiro se considera falta. Si ninguna bola objetivo es metida, no se consigue llevar la bola blanca o cualquier bola numerada a tocar banda después de que la bola blanca haya tocado la bola objetivo, el tiro se considera falta. Cuando un jugador comete una falta debe ceder su turno en la mesa y el siguiente jugador obtiene bola en mano.","\n5. FOULS. Falls der erste Objektball, der von der weißen Kugel berührt wird, nicht die Kugel mit der niedrigsten Nummer auf dem Tisch ist, ist der Stoß ein Foul. Falls nach dem Auftreffen der weißen Kugel kein Objektball eingelocht wird oder die weiße Kugel oder irgendeine nummerierte Kugel nicht an eine Bande gebracht wird, ist es ein Foul. Wenn ein Spieler ein Foul begeht, muss der Spieler seine/ihre Aufnahme am Tisch abgeben und der nächste Spieler bekommt einen „Ball in Hand“.","\n5. FAUTES. Si la première boule touchée par la boule blanche n'est pas la boule au plus petit nombre sur la table, le tir n'est pas valable. Si aucune boule n'est empochée, ou que ni la boule blanche ni aucune autre boule numérotée n'a atteint la bande après le premier impact de la boule blanche, le tir n'est pas valable. Quand un joueur commet une faute, celui-ci doit passer son tour et le joueur suivant obtient une boule en main.","\n5。 ファウル。手玉が最初に接初した的玉が台上の最小数でない場合、ショットはファウルです。どの的玉もポケットに入らなかった場合は、手玉のファーストインパクトの後、どの玉もレールにドライブできなかった場合はファイルです。プレイヤーがファウルを犯した場合、プレイヤーは自分の番を放棄しなければならず、入ってくるプレイヤーはボールインハンドの報酬が受けられることになります。"
+PopupHelpText6,"\n6. BALL IN HAND. When the cue ball is in hand, the player may place the cue ball anywhere on the table, except in contact with an object ball. The player may continue to adjust the position of the cue ball until he/she takes the shot.","\n6。 任意球规则。 获得任意球后，玩家可以在击球之前任意调整母球的位置。但是请注意该玩家不能直接把母球放进袋中弃权，也不能让母球紧贴在任何目标球上。","\n6。 任意球規則。 獲得任意球後，玩家可以在擊球之前任意調整母球的位置。但是請註意該玩家不能直接把母球放進袋中棄權，也不能讓母球緊貼在任何目標球上。","\n6. BOLA EN MANO. Cuando se obtiene bola en mano, el jugador puede colocar la bola en cualquier lugar de la mesa, excepto en contacto con una bola objetivo. El jugador puede ajustar la posición de la bola blanca hasta que tire.","\n6. BALL IN HAND. Bei einem „Ball in Hand“ kann der Spieler die weiße Kugel überall auf dem Tisch platzieren, außer sie berührt einen Objektball. Der Spieler kann die Position der weißen Kugel weiter verbessern, bis er/sie den Stoß ausführt.","\n6. BOULE EN MAIN. Quand la boule blanche est en main, le joueur peut la placer n'importe où sur la table, sauf en contact avec une boule numérotée. Le joueur peut continuer à ajuster la position de la boule blanche jusqu'à son tir.","\n6。 ボールインハンド。手玉を持っている時、プレイヤーは的玉に接触する場所以外であれば、台上のどこにでも手玉を置くことができます。プレイヤーはショットを撃つまで、手玉の位置を調整し続けることができます。"
+PopupHelpText7,"\n7. END OF GAME. The game ends at the end of a legal shot which pockets the 9-ball, or either player resigns.","\n7。 游戏结束。 当任何一名玩家合法的击打九号球落袋，该玩家会被判定获胜并且结束游戏。当任何一名玩家直接退出游戏时，他的对手会被判定获胜。","\n7。 遊戲結束。 當任何壹名玩家合法的擊打九號球落袋，該玩家會被判定獲勝並且結束遊戲。當任何壹名玩家直接退出遊戲時，他的對手會被判定獲勝。","\n7. FINAL DE JUEGO. El juego termina con un tiro legal que meta la bola 9 o cuando un jugador abandone.","\n7. ENDE DES SPIELS. Das Spiel endet mit dem Ende eines korrekten Stoßes, der die „9“ einlocht, oder jeder Spieler aufgibt.","\n7. FIN DE LA PARTIE. La partie se termine après que la boule 9 ait été empochée par un tir valable, ou après qu'un joueur ait abandonné.","\n7。 ゲームの終了。ゲームは9ボールをポケットに入れた合法ショット、またはプレイヤーのどちらかが退席した時、終了します。"
+
+Private,Private,九球下等兵,九球下等兵,Privada,Private,Privée,兵士
+Private 1st Class,Private 1st Class,九球上等兵,九球上等兵,Clase 1 Privada,Private 1st Class,Privée de 1re Classe,兵士第一クラス
+Corporal,Corporal,九球下士,九球下士,Corporal,Corporal,Caporal,伍長
+Sergeant,Sergeant,九球中士,九球中士,Sargento,Sergeant,Sergent,軍曹
+Staff Sergeant,Staff Sergeant,九球上士,九球上士,Sargento,Staff Sergeant,Le Sergent du Personnel,スタッフ軍曹
+Sergeant 1st Class,Sergeant 1st Class,九球军士,九球軍士,Clase 1 Sargento,Sergeant 1st Class,Sergent de 1re Classe,軍曹第一クラス
+2nd Lieutenant,2nd Lieutenant,九球少尉,九球少尉,Segundo Teniente,2nd Lieutenant,2e Lieutenant,中尉第二クラス
+Lieutenant,Lieutenant,九球中尉,九球中尉,Teniente,Lieutenant,Lieutenant,中尉
+Captain,Captain,九球上尉,九球上尉,Capitán,Hauptmann,Capitaine,上尉
+Major,Major,九球少校,九球少校,Mayor,Major,Major,少佐
+Lieutenant Colonel,Lieutenant Colonel,九球中校,九球中校,Teniente Coronel,Oberstleutnant,Le Lieutenant-Colonel,中佐
+Colonel,Colonel,九球上校,九球上校,Coronel,Colonel,Colonel,大佐
+Brigadier General,Brigadier General,九球少将,九球少將,General de Brigada,Brigadegeneral,Général de Brigade,准将
+Major General,Major General,九球中将,九球中將,General de División,Generalmajor,Major Général,少将
+Lieutenant General,Lieutenant General,九球上将,九球上將,Teniente General,Generalleutnant,Le Lieutenant-Général,中将
+General,General,九球大将,九球大將,General,General,Le Général,大将
+Generalissimo,Generalissimo,九球司令,九球司令,Generalísimo,Generalissimus,Généralissime,大帥
+Marshall,Marshal,九球元帅,九球元帥,Mariscal,Marschall,Maréchal,元帥
+Grand Marshall,Grand Marshal,九球大元帅,九球大元帥,Gran Mariscal,Großmarschalls,Grand Maréchal,大元帥
+King of 9 ball,King of 9 Ball,九球之王,九球之王,Rey de Bola 9,König von 9-Ball,Roi de 9 ball,ナインボールの王
+God of 9 ball,God of 9 Ball,九球之神,九球之神,Dios de Bola 9,Gott des 9-Ball,Dieu de 9 ball,ナインボールの神
+
+cuename0,Beginner Cue,新手球杆,新手球桿,Taco Principiante,Anfänger Queue,Queue Débutant,初級キュー
+cuename1,Standard Cue,标准球杆,標準球桿,Taco Estándar,Standard Queue,Queue Norme,標準キュー
+cuename2,Rosewood Cue,红木球杆,紅木球桿,Taco Palo de Rosa,Rosenholz Queue,Queue Bois de Rose,ローズウッドキュー
+cuename3,Steel Cue,白钢球杆,白鋼球桿,Taco Acero,Stahl Queue,Queue Acier,スチー兒キュー
+cuename4,Quarter Staff Cue,短棍球杆,短棍球桿,Taco Madera,Holz Queue,Queue Bois,木製キュー
+cuename5,Silver Staff Cue,铁棍球杆,鐵棍球桿,Taco Plata,Silber Queue,Queue Argent,銀キュー
+cuename6,Marble Cue,大理石球杆,大理石球桿,Taco Mármol,Marmor Queue,Queue Marbre,大理石キュー
+cuename7,Jaguar Cue,豹纹球杆,豹紋球桿,Taco el Jaguar,Jaguar Queue,Queue le Jaguar,ジャガーキュー
+cuename8,Dark Matter Cue,暗物质球杆,暗物質球桿,Taco Oscuro,Dunkel Queue,Queue Sombre,暗いキュー
+cuename9,Blue Sparkle Cue,蓝晶晶球杆,藍晶晶球桿,Taco la Chispa,Funkeln Queue,Queue Éclat,輝きキュー
+cuename10,Ceramic Cue,青花球杆,青花球桿,Taco de Cerámica,Keramik Queue,Queue Céramique,セラミックキュー
+cuename11,Camouflage Cue,迷彩球杆,迷彩球桿,Taco de Camuflaje,Tarnung Queue,Queue Camouflage,迷彩キュー
+cuename12,Digital Cue,黑客球杆,黑客球桿,Taco Digital,Digitale Queue,Queue Numérique,デジタルキュー
+cuename13,Green Monster Cue,荧光球杆,熒光球桿,Taco Verde,Grün Queue,Queue Vert,緑キュー
+cuename14,Fire Cue,镂空球杆,鏤空球桿,Taco Fuego,Feuer Queue,Queue Feu,火キュー
+cuename15,Purple Cane Cue,糖心球杆,糖心球桿,Taco Púrpura,Lila Queue,Queue Violet,紫キュー
+cuename16,Copper Staff Cue,青铜球杆,青銅球桿,Taco Cobre,Kupfer Queue,Queue Cuivre,銅キュー
+cuename17,Lava Cue,岩浆球杆,巖漿球桿,Taco Lava,Lava Queue,Queue Lave,溶岩キュー
+cuename18,Music Cue,音乐球杆,音樂球桿,Taco Música,Musik Queue,Queue la Musique,音楽キュー
+cuename19,Love Cue,爱心球杆,愛心球桿,Taco Amor,Liebe Queue,Queue L'amour,愛キュー
+
+cuename20,Italy Cue,意大利球杆,意大利球桿,Taco Italia,Italien Queue,Queue Italie,イタリアキュー
+cuename21,France Cue,法国球杆,法國球桿,Taco Francia,Frankreich Queue,Queue France,フランスキュー
+cuename22,Spain Cue,西班牙球杆,西班牙球桿,Taco España,Spanien Queue,Queue Espagne,スペインキュー
+cuename23,Germany Cue,德国球杆,德國球桿,Taco Alemania,Deutschland Queue,Queue Allemagne,ドイツキュー
+cuename24,England Cue,英国球杆,英國球桿,Taco Inglaterra,England Queue,Queue Angleterre,イギリスキュー
+cuename25,Indonesia Cue,印尼球杆,印尼球桿,Taco Indonesia,Indonesien Queue,Queue Indonésie,インドネシアキュー
+cuename26,Singapore Cue,新加坡球杆,新加坡球桿,Taco Singapur,Singapur Queue,Queue Singapour,シンガポールキュー
+cuename27,Philippine Cue,菲律宾球杆,菲律賓球桿,Taco Filipinas,Philippine Queue,Queue Philippines,フィリピンキュー
+cuename28,Korea Cue,韩国球杆,韓國球桿,Taco Corea,Korea Queue,Queue Corée,韓国キュー
+cuename29,Japan Cue,日本球杆,日本球桿,Taco Japón,Japan Queue,Queue Japon,日本キュー
+cuename30,China Cue,中国球杆,中國球桿,Taco China,China Queue,Queue Chine,中国キュー
+cuename31,Canada Cue,加拿大球杆,加拿大球桿,Taco Canadá,Kanada Queue,Queue Canada,カナダキュー
+cuename32,USA Cue,美国球杆,美國球桿,Taco Estados Unidos,USA Queue,Queue États-Unis,米国キュー
+
+cuename33,Spiderman Cue,蜘蛛侠球杆,蜘蛛俠球桿,Taco Spiderman,Spiderman Queue,Queue Spiderman,スパイダーマンキュー
+cuename34,Terminator Cue,终结者球杆,終結者球桿,Taco Terminator,Terminator Queue,Queue Terminator,ターミネーターキュー
+cuename35,Ironman Cue,钢铁侠球杆,鋼鐵俠球桿,Taco Ironman,Ironman Queue,Queue Ironman,アイアンマンキュー
+cuename36,Kitty Cat Cue,Kitty 球杆,Kitty 球桿,Taco Hello Kitty,Hello Kitty Queue,Queue Hello Kitty,ハローキティキュー
+cuename37,Mummy Cue,僵尸球杆,僵屍球桿,Taco Momia,Mummy Queue,Queue Maman,ミイラキュー
+cuename38,Frozen Cue,冰封球杆,冰封球桿,Taco Helado,Eingefroren Queue,Queue Glacé,凍ったキュー
+cuename39,Batman Cue,蝙蝠侠球杆,蝙蝠俠球桿,Taco Batman,Batman Queue,Queue Batman,バットマンキュー
+cuename40,Frozen Throne Cue,暗黑王球杆,暗黑王球桿,Taco Frozen Throne,Frozen Throne Queue,Queue Frozen Throne,玉座キュー
+
+cuename41,Red Jedi Cue,红色光剑,紅色光劍,Taco Red Jedi,Rot Jedi Queue,Queue Red Jedi,レッドジェダイキュー
+cuename42,Blue Jedi Cue,蓝色光剑,藍色光劍,Taco Azul Jedi,Blau Jedi Queue,Queue Bleu Jedi,ブルージェダイキュー
+cuename43,Green Jedi Cue,绿色光剑,綠色光劍,Taco Verde Jedi,Grün Jedi Queue,Queue Vert Jedi,グリーンジェダイキュー
+cuename44,Broken Cue,破碎球杆,破碎球桿,Taco Roto,Gebrochen Queue,Queue Cassé,壊れたキュー
+cuename45,Warped Cue,弯弯球杆,彎彎球桿,Taco Deformado,Verbogen Queue,Queue Déformé,反りキュー
+cuename46,Dragon Cue,真龙球杆,真龍球桿,Taco Dragón,Drachen Queue,Queue Dragon,ラゴンキュー
+cuename47,Peacock Cue,孔雀球杆,孔雀球桿,Taco Pavo Real,Pfau Queue,Queue Paon,孔雀キュー
+cuename48,Jade Cue,透明球杆,透明球桿,Taco Jade,Jade Queue,Queue le Jade,ヒスイキュー
+cuename49,Million Dollar Cue,富豪球杆,富豪球桿,Taco Dólar,Millionen-Dollar Queue,Queue le Dollar,ドルキュー
+cuename50,King's Cue,国王球杆,國王球桿,Taco Del Rey,Königs Queue,Queue Roi,王のキュー
+
+Login,Login,登录
+registration,Registration,注册
+Log Note,"Local save fil will be overwritten permanently,after login success.","登录成功后，本地存档会被覆盖。"
+Login failed,"Possible reasons: 1.account or passwords don't match.\n2. The connection to internet failed","可能原因：1.账号或者密码错误。\n2.网络未连接。"
+registration success,"Are you sure you want to register:","你确定要注册账号:"
+registration failed,"Your account can not be registered. Possible reasons: \n1.This account has been already registered. \n2.Inputted E-mail is invalid for account registration. \n3.The connection to internet failed","账号无法被注册，可能原因：\n1.此账号已被注册。\n2.账号是无效邮箱。\n3.网络未连接。"
+registration attention,"Your local save file would be uploaded to server,after the successful registration.","注册成功后，本机的存档将会上传至服务器。"
+wrong password,"The password should only be between 6 - 18 characters, and can only contain letters and numbers.","密码只能保持在6~18个字符数之间，只能包含字母和数字。"

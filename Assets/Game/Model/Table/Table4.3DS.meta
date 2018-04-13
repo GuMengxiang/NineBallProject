@@ -1,0 +1,86 @@
+fileFormatVersion: 2
+guid: d05768b35b4f0e4489214f0af0d5714c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: qiudong
+    100002: //RootNode
+    100004: wall
+    100006: zhuobian
+    100008: zhuobianco
+    100010: zhuomian
+    400000: qiudong
+    400002: //RootNode
+    400004: wall
+    400006: zhuobian
+    400008: zhuobianco
+    400010: zhuomian
+    2300000: qiudong
+    2300002: wall
+    2300004: zhuobian
+    2300006: zhuobianco
+    2300008: zhuomian
+    3300000: qiudong
+    3300002: wall
+    3300004: zhuobian
+    3300006: zhuobianco
+    3300008: zhuomian
+    4300000: zhuobian
+    4300002: wall
+    4300004: zhuomian
+    4300006: qiudong
+    4300008: zhuobianco
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .616599977
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

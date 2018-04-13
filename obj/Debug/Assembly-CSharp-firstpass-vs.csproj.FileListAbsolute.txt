@@ -1,0 +1,14 @@
+D:\AndroidPayment\W4D4\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\AndroidPayment\W4D4\Temp\bin\Debug\P31RestKit.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\Photon3Unity3D.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\UnityEditor.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\UnityEngine.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\Mono.Cecil.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\nunit.framework.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\Unity.DataContract.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\AndroidPayment\W4D4\Temp\bin\Debug\Photon3Unity3D.xml
+D:\AndroidPayment\W4D4\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\AndroidPayment\W4D4\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\AndroidPayment\W4D4\obj\Debug\Assembly-CSharp-firstpass.pdb

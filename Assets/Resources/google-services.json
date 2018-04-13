@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149905018803",
+    "firebase_url": "https://ball-pool-867282.firebaseio.com",
+    "project_id": "ball-pool-867282",
+    "storage_bucket": "ball-pool-867282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149905018803:android:21eb5e7dc60cda70",
+        "android_client_info": {
+          "package_name": "com.GingerAle.NineBallPoolVersionOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149905018803-7vj1jjmfmiqtll1tk27imeiu2bmsftoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAHqhifWBO_BcH2ClG6RaqeclyTKKri0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149905018803-7vj1jjmfmiqtll1tk27imeiu2bmsftoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

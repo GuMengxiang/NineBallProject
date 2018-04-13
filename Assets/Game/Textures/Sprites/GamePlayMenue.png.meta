@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 5f19be277ff4a874b9cc5d3b0c3f140f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GamePlayMenue_0
+    21300002: GamePlayMenue_1
+    21300004: GamePlayMenue_2
+    21300006: GamePlayMenue_3
+    21300008: GamePlayMenue_4
+    21300010: GamePlayMenue_5
+    21300012: GamePlayMenue_7
+    21300014: GamePlayMenue_7
+    21300016: GamePlayMenue_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 1
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 2
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GamePlayMenue_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 841
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 839
+        width: 186
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 634
+        width: 192
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 268
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 69
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_7
+      rect:
+        serializedVersion: 2
+        x: 179.880005
+        y: 249
+        width: 124
+        height: 119
+      alignment: 9
+      pivot: {x: .550000012, y: .469999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 135
+        height: 621
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GamePlayMenue_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 641
+        width: 183
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://ball-pool-867282.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">149905018803</string>
+  <string name="google_storage_bucket" translatable="false">ball-pool-867282.appspot.com</string>
+  <string name="project_id" translatable="false">ball-pool-867282</string>
+  <string name="google_api_key" translatable="false">AIzaSyDVAHqhifWBO_BcH2ClG6RaqeclyTKKri0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDVAHqhifWBO_BcH2ClG6RaqeclyTKKri0</string>
+  <string name="google_app_id" translatable="false">1:149905018803:android:21eb5e7dc60cda70</string>
+  <string name="default_web_client_id" translatable="false">149905018803-7vj1jjmfmiqtll1tk27imeiu2bmsftoj.apps.googleusercontent.com</string>
+</resources>

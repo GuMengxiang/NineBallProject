@@ -1,0 +1,44 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs">
+    <Files>
+      <File FileName="Assets\Photon Unity Networking\Editor\PhotonNetwork\PhotonEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\ServerSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\UnusedMaterial\UI\Script\Other\GameManager_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\UnusedMaterial\UI\Script\Button\GamePureExitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs" Line="2564" Column="11" />
+      <File FileName="Assets\Game\UnusedMaterial\UI\Script\Button\UIPlayButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Editor\PhotonNetwork\AccountService.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\UnusedMaterial\UI\Script\Other\LoadingText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\NetworkController\ServerMasterController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Localization.txt" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\NetworkController\ServerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\UtilityScripts\PunTeams.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.6\NineBallPool\Assets\Game\Scripts\BallController.cs" line="302" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.6\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\GameManager_script.cs" line="961" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.6\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\GameManager_script.cs" line="1007" column="51" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.6\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\GameManager_script.cs" line="1035" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.6\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\GameManager_script.cs" line="1076" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.6\NineBallPool\Assets\Game\Scripts\BallController.cs" line="248" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.6\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\GameManager_script.cs" line="999" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\LoginAndRegister.cs" line="347" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\Violator.cs" line="37" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\Violator.cs" line="39" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Other\Violator.cs" line="40" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Button\UIPlayButton.cs" line="50" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Button\UIPlayButton.cs" line="44" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Button\UIPlayButton.cs" line="34" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Game\UnusedMaterial\UI\Script\Button\UIPlayButton.cs" line="24" column="1" />
+      <Breakpoint file="C:\Users\zydx8888\Desktop\NineBallPool_5.3.601\NineBallPool\Assets\Plugins\Vungle\AdFinishedEventArgs.cs" line="3" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

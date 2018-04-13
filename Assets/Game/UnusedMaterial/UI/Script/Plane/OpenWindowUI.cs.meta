@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 95c689b7a710dd34386d1a57df43ad9d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Parent: {instanceID: 0}
+  - RootPanel: {instanceID: 0}
+  - WindowPanel: {fileID: 100010, guid: bc5264d3d928da4429bc28b143ac8381, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

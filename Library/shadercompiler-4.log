@@ -1,0 +1,69 @@
+Base path: C:/Program Files (x86)/Unity_Free/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-4-6584
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=1 insize=901 outsize=1048 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1051 outsize=1193 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1051 outsize=2015 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1770 outsize=2430 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1770 outsize=2040 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1381 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1381 outsize=2600 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2154 outsize=862 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2154 outsize=2584 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1788 outsize=660 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1788 outsize=505 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2219 outsize=2958 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2219 outsize=2584 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1852 outsize=2430 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1852 outsize=2032 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=924 outsize=360 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=924 outsize=193 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2137 outsize=862 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2137 outsize=596 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1329 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1329 outsize=316 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1252 outsize=1950 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1252 outsize=1715 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1237 outsize=441 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1237 outsize=344 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2284 outsize=862 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2284 outsize=829 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=942 outsize=360 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=942 outsize=143 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1917 outsize=1697 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1917 outsize=709 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
